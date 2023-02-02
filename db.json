@@ -97,18 +97,6 @@
       "id": 3
     },
     {
-      "name": "SERRUCHO",
-      "price": "15",
-      "color": "Orange",
-      "category": "Herramientas",
-      "description": "Serrucho económico de 22″",
-      "image": "https://promart.vteximg.com.br/arquivos/ids/403607-1000-1000/18537.jpg?v=637177386021470000",
-      "quantity": 1,
-      "userId": 1,
-      "productId": 3,
-      "id": 4
-    },
-    {
       "name": "TALADRO PETRUL",
       "price": "30",
       "color": "Yellow",
@@ -121,15 +109,15 @@
       "id": 5
     },
     {
-      "name": "CLAVOS PARA MADERA",
-      "price": "5.92",
-      "color": "Gray",
-      "category": "Carpinteria",
-      "description": "Clavos para madera varias medidas, fundas de 1 Kilo",
-      "image": "https://www.lacasadelcarpintero.com.ec/wp-content/uploads/2021/07/CLAG-CC-416x416.jpg",
+      "name": "SERRUCHO",
+      "price": "15.00",
+      "color": "Orange",
+      "category": "Herramientas",
+      "description": "Serrucho económico de 22″",
+      "image": "https://promart.vteximg.com.br/arquivos/ids/403607-1000-1000/18537.jpg?v=637177386021470000",
       "quantity": 1,
       "userId": 1,
-      "productId": 2,
+      "productId": 3,
       "id": 6
     }
   ],
