@@ -22,7 +22,7 @@ export class UserAuthComponent implements OnInit {
  login(data:login){
   this.user.userLogin(data);
   this.user.invalidUserAuth.subscribe((result)=>{
-   console.warn("apple",result);
+   console.warn(result);
    if(result){
     this.authError="Porfavor ingrese una cuenta valida";
    }else{

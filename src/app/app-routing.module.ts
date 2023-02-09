@@ -12,6 +12,7 @@ import { UserAuthComponent } from './user-auth/user-auth.component';
 import { CartPageComponent } from './cart-page/cart-page.component';
 import { CheckoutComponent } from './checkout/checkout.component';
 import { MisOrdenesComponent } from './mis-ordenes/mis-ordenes.component';
+import { EstadisticaComponent } from './estadistica/estadistica.component';
 
 const routes: Routes = [
   {path:'',component:HomeComponent},
@@ -24,7 +25,8 @@ const routes: Routes = [
   {path:'user-auth',component:UserAuthComponent},
   {path:'cart-page',component:CartPageComponent},
   {path:'checkout',component:CheckoutComponent},
-  {path:'mis-ordenes',component:MisOrdenesComponent}
+  {path:'mis-ordenes',component:MisOrdenesComponent},
+  {path:'estadistica',component:EstadisticaComponent}
 ];
 
 @NgModule({

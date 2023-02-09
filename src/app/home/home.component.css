@@ -16,7 +16,7 @@
 
 /*Productos Populares*/
 .container2{
-  margin: 50px;
+  margin: 20px;
 }
 .separador{
   background-color: yellow;
@@ -77,7 +77,7 @@
 
 
 .button-detalle {
-  background-color: #021730; 
+  background-color: #021730;
   border-radius: 10px;
   color: white;
   padding: 7px 25px;

@@ -20,6 +20,7 @@ import { FooterComponent } from './footer/footer.component';
 import { CartPageComponent } from './cart-page/cart-page.component';
 import { CheckoutComponent } from './checkout/checkout.component';
 import { MisOrdenesComponent } from './mis-ordenes/mis-ordenes.component';
+import { EstadisticaComponent } from './estadistica/estadistica.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { MisOrdenesComponent } from './mis-ordenes/mis-ordenes.component';
     FooterComponent,
     CartPageComponent,
     CheckoutComponent,
-    MisOrdenesComponent
+    MisOrdenesComponent,
+    EstadisticaComponent
   ],
   imports: [
     BrowserModule,
