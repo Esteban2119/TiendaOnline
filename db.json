@@ -1,15 +1,15 @@
 {
   "vendedor": [
     {
-      "name": "Renato Escobar",
+      "name": "vendedor1",
       "password": "12345",
-      "email": "alanescobar.p@gmail.com",
+      "email": "vendedor1@gmail.com",
       "id": 1
     },
     {
-      "name": "Paul Ponce",
+      "name": "vendedor2",
       "password": "12345",
-      "email": "pap@gmail.com",
+      "email": "vendedor2gmail.com",
       "id": 2
     }
   ],
@@ -62,20 +62,20 @@
   ],
   "users": [
     {
-      "name": "Angelo Diaz",
-      "email": "angelodiaz@gmail.com",
+      "name": "esteban1",
+      "email": "esteban1@gmail.com",
       "password": "12345",
       "id": 1
     },
     {
-      "name": "Alan Escobar",
-      "email": "renatoparreno.fcb@gmail.com",
+      "name": "bryan2",
+      "email": "bryan2@gmail.com",
       "password": "12345",
       "id": 2
     },
     {
-      "name": "Juan Perez",
-      "email": "juan@gmail.com",
+      "name": "esteban3",
+      "email": "esteban3@gmail.com",
       "password": "12345",
       "id": 3
     }
